@@ -1,3 +1,7 @@
+export async function getServerSideProps() {
+  return { props: {} };
+}
+
 import Image from "next/image";
 
 export default function ComingSoon() {
