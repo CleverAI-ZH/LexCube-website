@@ -1,2 +1,11 @@
+# Build output
+.next
+
+# Dependencies
 node_modules
-node_modules
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
